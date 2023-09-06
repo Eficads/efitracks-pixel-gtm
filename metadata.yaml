@@ -1,0 +1,6 @@
+homepage: "https://eficads.com",
+documentation: "https://github.com/eficads/",
+versions:
+  # Latest version
+  - sha: 6b2f26e89fa86c8bbd6072bcc87480bb6cdbf490
+    changeNotes: Tracking Pixel - Eficads 1.0
